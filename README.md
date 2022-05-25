@@ -99,14 +99,17 @@ http://arduinoturkiye.com/kategori/arduinoya-giri/
 https://www.bilisim Konulari.com/proteus-isis-ve-ares-k
 use-picture-explanation.html
 
-![image](temp_decreased){width="1\\linewidth"}
 
-![image](Fire_buzzer_voice){width="1\\linewidth"}
+![dogru_sifre](https://user-images.githubusercontent.com/81527587/170293713-6b4d2d7e-0e14-4701-bdd0-4ae61f521f2c.jpg)
+![hareket](https://user-images.githubusercontent.com/81527587/170293718-ffc47cc3-c8a3-4414-825b-e24387704a2c.png)
+![hareket_tespit_edildi](https://user-images.githubusercontent.com/81527587/170293720-db546564-5a45-4fa5-acf3-282138be8e7c.jpg)
+![hatali_sifre](https://user-images.githubusercontent.com/81527587/170293722-e26c8e6b-5d9f-4264-abff-39584433c4b9.jpg)
+![sicaklik_artti](https://user-images.githubusercontent.com/81527587/170293726-17e68347-3ca2-4a84-903b-add49dc3f7c6.jpg)
+![sicaklik_azaldi](https://user-images.githubusercontent.com/81527587/170293729-898dd4f7-0a02-4fc3-bc8f-4e797d71e4a0.jpg)
+![termometre](https://user-images.githubusercontent.com/81527587/170293733-b4e9e322-6913-4e2f-9f19-ed268367c86b.png)
+![yangın](https://user-images.githubusercontent.com/81527587/170293737-0c6aa55e-0b99-4954-92ee-6cb3d7fdf12e.png)
+![Yangin_buzzer_sesi](https://user-images.githubusercontent.com/81527587/170293743-b671260b-f7c1-4491-b925-d4f217249908.jpg)
 
-![image](motion_detected){width="1\\linewidth"}
 
-![image](bad_password){width="1\\linewidth"}
 
-![image](correct_password){width="1\\linewidth"}
 
-![image](temp_increase){width="1\\linewidth"}
