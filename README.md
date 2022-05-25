@@ -47,24 +47,6 @@ that the temperature increases, if it is below 20 degrees, the temperature decre
 I write to the screen, in other cases, only the temperature of the environment
 I am writing.
 
-FAKE CODES
-================
-
-![hareket](https://user-images.githubusercontent.com/81527587/170293956-b7412cb3-6b0b-4e2d-bfd3-ba3787dc91c0.png)
-![termometre](https://user-images.githubusercontent.com/81527587/170293961-031f91cb-3003-4906-98f6-98766d7f9fb3.png)
-![yangın](https://user-images.githubusercontent.com/81527587/170293963-8b2c0892-7b61-43a7-b42d-6ea6e8c9863c.png)
-
-
-It's time for the fake codes, now we will share the fake codes with you.
-First, let's talk about what pseudocode is. Another pseudo code
-pseudo-code by name, brief verbal description of the steps to be taken
-method. Half programming language rule of an algorithm, half speech
-we can say that it is put forward in terms of language. Liar
-By coding, we can create the algorithm and see everything from the ground up. This
-In this way, we have the opportunity to write the code more easily and accurately. Request
-a rough sketch of some functions' pseudocode on the first page above
-we have conveyed it to you.
-
 SUMMARY
 ====
 
