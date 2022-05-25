@@ -77,9 +77,6 @@ https://www.circuitstoday.com/proteus-software-introduction
 
 http://arduinoturkiye.com/kategori/arduinoya-giri/
 
-https://www.bilisim Konulari.com/proteus-isis-ve-ares-k
-use-picture-explanation.html
-
 
 ![dogru_sifre](https://user-images.githubusercontent.com/81527587/170293713-6b4d2d7e-0e14-4701-bdd0-4ae61f521f2c.jpg)
 ![hareket_tespit_edildi](https://user-images.githubusercontent.com/81527587/170293720-db546564-5a45-4fa5-acf3-282138be8e7c.jpg)
