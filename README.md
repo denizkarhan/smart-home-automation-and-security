@@ -1,6 +1,6 @@
 ENTRANCE
 =====
-<img src="https://user-images.githubusercontent.com/81527587/170296315-e266f188-6063-4cf2-a420-8a1aef3d2dea.jpg" width="500" height="400">
+<img src="https://user-images.githubusercontent.com/81527587/170296315-e266f188-6063-4cf2-a420-8a1aef3d2dea.jpg" width="450" height="285">
 
 
 The main purpose of this project is to transfer 4 features to the arduino mega 2560.
