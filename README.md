@@ -17,7 +17,7 @@ we add.\
 1. Want to add Fire alarm\
 ![Arduino_Flame_Sensor](https://user-images.githubusercontent.com/81527587/170296747-88498ccf-dbdc-4884-911a-c966833be0da.jpg)
 
-2. Whether to add motion detecting light system\!
+2. Whether to add motion detecting light system\
 ![Arduino Pır Sensor](https://user-images.githubusercontent.com/81527587/170296829-cc3e6ad6-a39a-484c-87fa-ebfa56817c3b.jpg)
 
 3. Want to add a Digital thermometer\
