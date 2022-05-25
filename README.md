@@ -50,11 +50,10 @@ I am writing.
 FAKE CODES
 ================
 
-![image](motion){width="0.7\\linewidth"}
+![hareket](https://user-images.githubusercontent.com/81527587/170293956-b7412cb3-6b0b-4e2d-bfd3-ba3787dc91c0.png)
+![termometre](https://user-images.githubusercontent.com/81527587/170293961-031f91cb-3003-4906-98f6-98766d7f9fb3.png)
+![yangın](https://user-images.githubusercontent.com/81527587/170293963-8b2c0892-7b61-43a7-b42d-6ea6e8c9863c.png)
 
-![image](fire){width="0.7\\linewidth"}
-
-![image](thermometer){width="0.7\\linewidth"}
 
 It's time for the fake codes, now we will share the fake codes with you.
 First, let's talk about what pseudocode is. Another pseudo code
@@ -101,13 +100,10 @@ use-picture-explanation.html
 
 
 ![dogru_sifre](https://user-images.githubusercontent.com/81527587/170293713-6b4d2d7e-0e14-4701-bdd0-4ae61f521f2c.jpg)
-![hareket](https://user-images.githubusercontent.com/81527587/170293718-ffc47cc3-c8a3-4414-825b-e24387704a2c.png)
 ![hareket_tespit_edildi](https://user-images.githubusercontent.com/81527587/170293720-db546564-5a45-4fa5-acf3-282138be8e7c.jpg)
 ![hatali_sifre](https://user-images.githubusercontent.com/81527587/170293722-e26c8e6b-5d9f-4264-abff-39584433c4b9.jpg)
 ![sicaklik_artti](https://user-images.githubusercontent.com/81527587/170293726-17e68347-3ca2-4a84-903b-add49dc3f7c6.jpg)
 ![sicaklik_azaldi](https://user-images.githubusercontent.com/81527587/170293729-898dd4f7-0a02-4fc3-bc8f-4e797d71e4a0.jpg)
-![termometre](https://user-images.githubusercontent.com/81527587/170293733-b4e9e322-6913-4e2f-9f19-ed268367c86b.png)
-![yangın](https://user-images.githubusercontent.com/81527587/170293737-0c6aa55e-0b99-4954-92ee-6cb3d7fdf12e.png)
 ![Yangin_buzzer_sesi](https://user-images.githubusercontent.com/81527587/170293743-b671260b-f7c1-4491-b925-d4f217249908.jpg)
 
 
