@@ -1,5 +1,6 @@
 ENTRANCE
 =====
+![!](https://user-images.githubusercontent.com/81527587/170296315-e266f188-6063-4cf2-a420-8a1aef3d2dea.jpg)
 
 The main purpose of this project is to transfer 4 features to the arduino mega 2560.
 to create a smart home system by integrating this project
@@ -14,9 +15,17 @@ The main flow of this project is explained as follows. arduino mega
 Using the 2560 card, there are 4 hysteria requested from us.
 we add.\
 1. Want to add Fire alarm\
-2. Whether to add motion detecting light system\
+![Arduino_Flame_Sensor](https://user-images.githubusercontent.com/81527587/170296747-88498ccf-dbdc-4884-911a-c966833be0da.jpg)
+
+2. Whether to add motion detecting light system\!
+![Arduino Pır Sensor](https://user-images.githubusercontent.com/81527587/170296829-cc3e6ad6-a39a-484c-87fa-ebfa56817c3b.jpg)
+
 3. Want to add a Digital thermometer\
+![dijital termometre](https://user-images.githubusercontent.com/81527587/170297342-e71cbca0-14c9-4952-b272-93adafbb4160.jpg)
+
 4. Whether to add Lock system.\
+![key_sensör](https://user-images.githubusercontent.com/81527587/170297370-20f0d313-0184-483c-be2a-4710168c0926.jpg)
+
 We can transfer these desired features to the Arduino board in the simulation in the proteus.
 we add. then arduino IDE how to get each feature to work
 We determine with After specifying these features, add these features to the arduino IDE.
