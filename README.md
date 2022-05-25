@@ -1,6 +1,7 @@
 ENTRANCE
 =====
-![!](https://user-images.githubusercontent.com/81527587/170296315-e266f188-6063-4cf2-a420-8a1aef3d2dea.jpg)
+<img src="https://user-images.githubusercontent.com/81527587/170296315-e266f188-6063-4cf2-a420-8a1aef3d2dea.jpg" width="100" height="10">
+
 
 The main purpose of this project is to transfer 4 features to the arduino mega 2560.
 to create a smart home system by integrating this project
